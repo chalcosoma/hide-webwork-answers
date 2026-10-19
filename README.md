@@ -2,7 +2,7 @@
 
 Tampermonkey userscript that hides previous answers and feedback on WeBWorK problems in order to redo past assignments as study material.
 
-## Install
+## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
 2. Allow user scripts (Chromium browsers only):
